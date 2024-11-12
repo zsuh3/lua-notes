@@ -2,6 +2,10 @@
 
 <img src="./lua_logo.svg" width=200>
 
+<br>
+
+This repository contains notes on Lua programming, including notes taken from _Steve's Teacher Lua Programming Tutorials_ on Youtube.
+
 ## Table of Contents
 
 - [Welcome to Lua](#welcome-to-lua)
